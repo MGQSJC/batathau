@@ -1,0 +1,18 @@
+body{
+    background:pink;
+    color:black;
+}
+header {
+    border-bottom: solid 2px rgb(0, 0, 0);
+    padding: 0px;
+    font-size: 40px;
+    color: rgb(255, 1, 43)
+}
+section
+{
+    background: rgb(129, 58, 70);
+    padding-top: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
